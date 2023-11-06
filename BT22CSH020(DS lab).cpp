@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//sumedh sabne
 int main() {
     int numRows, numCols, numElements;
     cin >> numRows >> numCols >> numElements;
